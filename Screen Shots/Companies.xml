@@ -1,0 +1,4 @@
+<?xml version="1.0" standalone="yes"?>
+<XSchema xmlns="http://tempuri.org/XSchema.xsd">
+  <CompanyInfo CompanyName="SIDDHI SOFTWARES PVT LTD." CompanyAddress="Near Bus  Stand&#xD;&#xA;Opp Police Head Quarter,&#xD;&#xA;" City="jalgaon " Pincode="425001" CompanyCode="SSPL0607" FromDate="2006-04-01T00:00:00.0000000+05:30" ToDate="2007-03-31T00:00:00.0000000+05:30" ADBPath="D:\ACC\DataBase\SSPL0607\SSPL0607.MDB" RDBPath="D:\ACC\DataBase\SSPL0607" DBName="SSPL0607" ShortName="SSPL" />
+</XSchema>
